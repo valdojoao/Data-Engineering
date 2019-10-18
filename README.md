@@ -10,6 +10,6 @@ The task covers several aspects such as:<br>
 5)How to deal with Imbalanced Data <br>
 6)How to use Bayesian inteligent search to find the best Hyper-Parameters combination
 
-If notebook is not loading click [here](https://nbviewer.jupyter.org/github/valdojoao/Data-Engineering/blob/master/task.ipynb) 
+If notebook is not loading click [here](https://nbviewer.jupyter.org/github/valdojoao/Data-Engineering/blob/master/task.ipynb){:target="_blank"} 
 
 
